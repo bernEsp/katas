@@ -1,6 +1,6 @@
 #Task Goal
-=====
-Write a method to return all the equilibium indices on a given array or -1 if 
+====
+Write a method to return all the equilibium indexes on a given array or -1 if 
 any index is an equilibrium index.
 
 ### Description
